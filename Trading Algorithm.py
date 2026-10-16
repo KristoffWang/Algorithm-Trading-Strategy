@@ -1,5 +1,4 @@
-"""ST458 Group J — final submission.
-
+"""
 Implements initialise_state(data) and trading_algorithm(new_data, state).
 
 Loads a frozen model (model_linear.npz or model_lgbm_dump.json) and three
